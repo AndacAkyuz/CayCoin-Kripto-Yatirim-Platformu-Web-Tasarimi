@@ -18,7 +18,7 @@ Proje dosyalarını direkt olarak indirin
 **Keyifli kullanımlar dileriz!**
 Site İçerisinden Bazı Görüntüler
 Giriş Sayfası
-![1](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/f6305d9d-2773-42ee-b1e4-6e8aef45e5fa)
+![1](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/7fb04e3c-814e-4d4e-bb3b-789ec2999299)
 Hakkında Kısmı ve Hareket Eden Coin Değeri
 ![2](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/066f3507-36cf-4394-9d13-4bb43d2118c0)
 Ürünlerimiz Sayfası
