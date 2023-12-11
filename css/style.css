@@ -614,6 +614,16 @@ a:focus {
   background: linear-gradient(to bottom, #949494, #505050);
 }
 
+@media only screen and (max-width: 767px) {
+  .why_section .box h5,
+  .why_section .box h1,
+  .why_section .box h3,
+  .why_section .box p {
+    color: #ffffff; /* Beyaz renk */
+  }
+}
+
+
 /* Duyuru section*/
 .duyuru {
   background-color: #fff;
@@ -1091,3 +1101,98 @@ button:hover {
   display: inline-block;
 }
 /*# hizmetlerimiz buton ayarları sonu */
+
+
+/*  Products section starts */
+/* products_section styles */
+.products_section {
+  background-color: #f8f9fa;
+  padding: 80px 0; /* Ayarlayabilirsiniz */
+}
+
+.products_section .heading_container {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.products_section h2 {
+  font-size: 36px;
+  color: #333;
+}
+
+.products_section .row {
+  justify-content: center;
+}
+
+.products_section .box {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.products_section .box:hover {
+  transform: scale(1.05);
+}
+
+.products_section .box .img-box {
+  overflow: hidden;
+  height: 200px; /* Ayarlayabilirsiniz */
+}
+
+.products_section .box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+
+.products_section .box:hover img {
+  transform: scale(1.2);
+}
+
+.products_section .box .detail-box {
+  padding: 20px;
+}
+
+.products_section h6 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+
+.products_section p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.products_section .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #680202;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.products_section .btn:hover {
+  background-color: #000000;
+}
+
+/* layout_padding styles */
+.layout_padding {
+  padding: 20px 0; /* Ayarlayabilirsiniz */
+}
+
+@media (max-width: 767px) {
+  .products_section .box {
+    margin-bottom: 30px;
+  }
+}
+/* End of product sections*/
+
