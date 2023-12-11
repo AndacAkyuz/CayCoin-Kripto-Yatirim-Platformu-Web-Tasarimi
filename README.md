@@ -30,6 +30,6 @@ Duyuruya Tıklandıktan Sonra Gelen Pop-Up
 Açılır Menü Şeklinde Birimlerimiz Sayfası
 ![6](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/bf52b0ed-8687-4ccb-a56c-af58e7f37fab)
 Admin Panel
-![7](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/12ae45c4-94d8-4f4f-b7ac-1d632382f992)
+![7](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/d9f3f769-6296-40b1-a77a-b1b168bcb3cc)
 İletişim Formu
 ![8](https://github.com/AndacAkyuz/CayCoin-Kripto-Yatirim-Platformu-Web-Tasarimi/assets/91327557/08ad0979-01b6-4575-87bd-1c25e6a7bce4)
