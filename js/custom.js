@@ -156,8 +156,8 @@ function showMore2() {
       title: 'ÇayCoin Airdrop Kampanyası Başladı!',
       content: 'Şimdi ÇayCoin topluluğuna katılın ve hesabınızı doğrulayarak ücretsiz ÇayCoin kazanın! Airdrop kampanyamıza katılarak avantajlı tekliflerden yararlanın.',
       imageLink: 'images/duyuru.png',
-      pdfLink: 'duyuru.pdf',
-      wordLink: 'duyuru.docx',
+      pdfLink: 'Rapor/rapor.pdf',
+      wordLink: 'Rapor/rapor.docx',
       date: new Date('2023-12-03')
   });
 
@@ -165,8 +165,8 @@ function showMore2() {
     title: 'Yeni Kullanıcılara Özel Hoş Geldin Bonusu!',
     content: 'ÇayCoin ailesine katılan her yeni kullanıcıya özel hoş geldin bonusu! Hesabınıza ilk yatırımınızda ekstra ÇayCoin kazanma fırsatını kaçırmayın.',
     imageLink: 'images/duyuru.png',
-    pdfLink: 'duyuru.pdf',
-    wordLink: 'duyuru.docx',
+    pdfLink: 'Rapor/rapor.pdf',
+    wordLink: 'Rapor/rapor.docx',
     date: new Date('2023-12-01')
 });
 
@@ -174,8 +174,8 @@ announcements.push({
   title: 'ÇayCoin Ticaret Yarışması Başlıyor!',
   content: 'Beceri ve stratejinizi test edin! ÇayCoin ticaret yarışmamıza katılarak ödüller kazanın. En yüksek getiriyi sağlayan ticaretçiler arasında yerinizi alın.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-22')
 });
 
@@ -183,8 +183,8 @@ announcements.push({
   title: 'Referans Programı ile ÇayCoin Kazanın!',
   content: 'Arkadaşlarınızı ÇayCoine davet edin ve her başarılı referans için ödüller kazanın! Daha fazla kişiyi davet ederek ekstra ÇayCoin elde edin.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-01')
 });
 
@@ -192,8 +192,8 @@ announcements.push({
   title: 'ÇayCoin VIP Üyelik Programı',
   content: 'ÇayCoin VIP üyelerine özel ayrıcalıklar ve avantajlar! Yüksek hacimli ticaret yapan kullanıcılar için özel VIP programımıza katılarak benzersiz fırsatları keşfedin.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-09')
 });
 
@@ -201,8 +201,8 @@ announcements.push({
   title: 'Yeni İşlem Çiftleri Eklendi!',
   content: 'ÇayCoin ticaret platformumuzda yeni işlem çiftleri eklendi. Daha fazla çeşitlilik ve fırsat için güncel piyasa trendlerini takip edin!',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-15')
 });
 
@@ -211,8 +211,8 @@ announcements.push({
   title: 'ÇayCoin Mobil Uygulama Yayında!',
   content: 'ÇayCoin mobil uygulamamız artık kullanıma hazır! Hızlı ve güvenli işlemler için mobil ticaret deneyimini keşfedin. Uygulamayı indirin ve avantajları kaçırmayın!',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-12-10')
 });
 
@@ -220,8 +220,8 @@ announcements.push({
   title: 'ÇayCoin Güvenlik Güncellemesi!',
   content: 'ÇayCoin platformumuzdaki güvenliğinizi artırmak amacıyla yeni bir güncelleme yayımlandı. Hesap güvenliğiniz için lütfen şifrenizi düzenli aralıklarla güncelleyin.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-12-05')
 });
 
@@ -229,8 +229,8 @@ announcements.push({
   title: 'ÇayCoin Topluluk Anketi!',
   content: 'Siz de ÇayCoin topluluğu olarak gelecekteki geliştirmelerimize katkıda bulanmak ister misiniz? Katılımınızı beklediğimiz anketimize katılarak düşüncelerinizi paylaşın.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-12-08')
 });
 
@@ -238,8 +238,8 @@ announcements.push({
   title: 'ÇayCoin Webinar Etkinliği!',
   content: 'Finansal konularda uzmanlarımızla buluşun! ÇayCoin webinar etkinliğimize katılarak piyasa analizleri ve ticaret stratejileri hakkında bilgi edinin. Kayıt için hemen başvurun.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-28')
 });
 
@@ -247,8 +247,8 @@ announcements.push({
   title: 'ÇayCoin Yatırım Eğitimleri Başlıyor!',
   content: 'Finansal okuryazarlığınızı artırmak ve yatırımlarınızdan daha fazla kazanç elde etmek ister misiniz? ÇayCoin yatırım eğitimleri ile bilgi birikiminizi güçlendirin.',
   imageLink: 'images/duyuru.png',
-  pdfLink: 'duyuru.pdf',
-  wordLink: 'duyuru.docx',
+  pdfLink: 'Rapor/rapor.pdf',
+  wordLink: 'Rapor/rapor.docx',
   date: new Date('2023-11-18')
 });
 
